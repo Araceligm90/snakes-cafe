@@ -2,7 +2,7 @@ LAB - Class 01
 ## Snakes Cafe
 
 Author: Araceli García
-
+Version: 2.0
 
 ### Overview:
 
